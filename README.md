@@ -1,6 +1,8 @@
 # Action-Recognition
 ### Demo 
-https://github.com/user-attachments/assets/fc23330f-65d0-4337-ab9b-371303e98590
+https://github.com/user-attachments/assets/a0a6cb61-5f09-4d33-afe4-c19dca19cf02
+
+
 
 
 
