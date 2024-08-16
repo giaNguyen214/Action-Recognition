@@ -1,8 +1,10 @@
 # Action-Recognition
 
 ### Resnet50
-![image](https://github.com/user-attachments/assets/ca3dc5a9-bf40-43b1-b950-997b571bdbf6)
-![image](https://github.com/user-attachments/assets/0d0b2d2b-60e2-4dc9-8651-9e313febf5c1)
+<p>
+  <img src="https://github.com/user-attachments/assets/ca3dc5a9-bf40-43b1-b950-997b571bdbf6" width="300" style="display: inline-block;" />
+  <img src="https://github.com/user-attachments/assets/0d0b2d2b-60e2-4dc9-8651-9e313febf5c1" width="300" style="display: inline-block;" />
+</p>
 
 ### EfficientNet V2S
 ![image](https://github.com/user-attachments/assets/5ccc0570-70e3-496d-8c19-b876721f41e1)
