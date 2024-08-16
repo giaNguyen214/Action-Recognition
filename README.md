@@ -1,10 +1,8 @@
 # Action-Recognition
 ### Demo 
-https://github.com/user-attachments/assets/a0a6cb61-5f09-4d33-afe4-c19dca19cf02
+https://github.com/user-attachments/assets/c2a3628d-76c6-414c-901e-f1bda40959eb
 
-
-
-
+### Link: https://action-recognition.streamlit.app/
 
 ### Resnet50
 <p>
@@ -23,4 +21,3 @@ https://github.com/user-attachments/assets/a0a6cb61-5f09-4d33-afe4-c19dca19cf02
   <img src="https://github.com/user-attachments/assets/7d45ae52-115e-4cb4-a7cf-b404e86bdb1d" width="400" style="display: inline-block;" />
 </p>
 
-Link: https://action-recognition.streamlit.app/
